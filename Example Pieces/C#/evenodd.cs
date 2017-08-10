@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GenericName
+namespace OddEven
 {
   class MyProgram
   {
     static void Main(string[] args)
     {
-		string str = "Welcome to the Jungle";
-		char x = str[5];
-		Console.WriteLine(x);
+		needInput = Console.ReadLine();
+		
+		if (needInput%2 == 0)
+			Console.WriteLine("The number is even!");
+			else
+			Console.WriteLine("The number is odd!");
     }
   }
 
