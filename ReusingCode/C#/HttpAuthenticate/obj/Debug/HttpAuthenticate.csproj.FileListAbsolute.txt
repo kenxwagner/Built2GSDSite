@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\HttpAuthenticate\bin\Debug\HttpAuthenticate.exe.config
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\HttpAuthenticate\bin\Debug\HttpAuthenticate.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\HttpAuthenticate\bin\Debug\HttpAuthenticate.pdb
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\HttpAuthenticate\obj\Debug\HttpAuthenticate.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\HttpAuthenticate\obj\Debug\HttpAuthenticate.exe
+C:\Users\Ken\Documents\GitHub\CodeChallenges\C#\HttpAuthenticate\obj\Debug\HttpAuthenticate.pdb
