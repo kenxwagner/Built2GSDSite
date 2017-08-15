@@ -1,0 +1,123 @@
+﻿@import url("layout.css");
+body {
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-size: 0.8em;
+	background-color: #000000;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+#container {
+	width: 700px;
+	margin: 10 auto 10 auto;
+}
+#masthead {
+	text-align: center;
+	width: 700px;
+	border: 1px #774422 solid;
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 148px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border: 1px solid #431;
+	background-color: #FF0000;
+}
+#content {
+	float: right;
+	width: 500px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	background-color: #C10000;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 698px;
+	padding: 0px;
+	border: 1px solid #431;
+	background-color: #fff;
+}
+/* Masthead Styles */
+#masthead h1 {
+	padding: 5px 0 5px 0;
+	background: #000000 url('../images/Tri-City Triple Threat.jpg') no-repeat center;
+	color: #000000;
+}
+#masthead h3 {
+	color: #FF0000;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+	color: #FF0000;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 5px 0 5px 0;
+	border: 1px #C10000 solid;
+	background-color: #C10000;
+}
+#navigation a {
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	border: 1px #000000 solid;
+	background-color: #C10000;
+}
+#navigation a:hover {
+	color: #fff;
+	text-decoration: none;
+	border: 1px #000000 solid;
+	background-color: #000000;
+}
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+	padding: 5px 0 0 0;
+	color: #000000;
+}
+#content img {
+	padding: 5px;
+	border: 1px solid #964;
+}
+/* Footer Styles */
+#footer p {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background: #FF0000;
+	padding: 5px 0 5px 0;
+	color: #000000;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#footer a {
+	color: #000000;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #853;
+	text-decoration: none;
+}
+a {
+	color: #a60;
+	text-decoration: underline;
+}
+a:hover {
+	color: #742;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
