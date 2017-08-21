@@ -1,0 +1,6 @@
+C:\Users\Ken\Documents\GitHub\CodeForReuse\C#\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Ken\Documents\GitHub\CodeForReuse\C#\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Ken\Documents\GitHub\CodeForReuse\C#\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Ken\Documents\GitHub\CodeForReuse\C#\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Documents\GitHub\CodeForReuse\C#\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Ken\Documents\GitHub\CodeForReuse\C#\BubbleSort\obj\Debug\BubbleSort.pdb

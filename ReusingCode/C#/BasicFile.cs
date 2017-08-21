@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,3 +18,22 @@ namespace GenericName
   }
 
 }
+=======
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GenericName
+{
+  class MyProgram
+  {
+    static void Main(string[] args)
+    {
+    Console.WriteLine("Welcome to the World!");
+    }
+  }
+
+}
+>>>>>>> origin/master

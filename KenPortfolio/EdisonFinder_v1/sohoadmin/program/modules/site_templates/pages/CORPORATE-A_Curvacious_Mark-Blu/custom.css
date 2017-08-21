@@ -1,0 +1,385 @@
+/*##########################################################################################################
+============================================================================================================
+Client-Side Display Elements
+------------------------------------------------------------------------------------------------------------
+>> This is the default stylesheet for all
+>> visitor-facing elements on the website
+>> itself (i.e. checkout system).
+============================================================================================================
+##########################################################################################################*/
+
+
+/*################################################################################################
+--------------------------------------------------------------------------------------------------
+>> General
+--------------------------------------------------------------------------------------------------
+################################################################################################*/
+
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+.sohotext {
+	font-family : Arial;
+	font-size: 9pt;
+}
+
+.SMtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+.smtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+.uptext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: darkgreen;
+}
+
+/* Generic form button style. */
+.FormLt1 {
+	font-family : Arial;
+	font-size : 8pt;
+	cursor: hand;
+}
+
+
+
+/*################################################################################################
+--------------------------------------------------------------------------------------------------
+>> Menu System - #VMENU#
+--------------------------------------------------------------------------------------------------
+################################################################################################*/
+
+
+/*################################################################################
+>> Main Menu Links
+##################################################################################
+
+/* ====================================================================== */
+/* This is the main vmenu table */
+/* ---------------------------------------------------------------------- */
+/* <table> */
+   table.vmenu_mainz {
+      width: 100%;
+      border: 0px;
+      padding: 0px 0px 0px 0px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 11px;
+   }
+
+ /* <tr> */
+
+  /* <td> ---- [<div><a>Main Page</a></div>] ---- </td>
+  /*-----------------------------------------------------------*/
+     td.vmenu_main_off {
+        width: 100%;
+        border: 0px;
+        padding: 0px 0px 5px 10px;
+        font-weight: normal;
+     }
+     td.vmenu_main_on {
+        width: 100%;
+        border: 0px;
+        padding: 0px 0px 5px 10px;
+        font-weight: bold;
+     }
+
+   /* <div> ---- [<a>Main Page</a>] ---- </div>
+   /*-----------------------------------------------------------*/
+      div.vmenu_main_off {
+         width: 100%;
+      }
+      div.vmenu_main_on {
+         width: 100%;
+      }
+
+    /* <a> ---- [Main Page] ---- </a>
+    /*-----------------------------------------------------------*/
+       a.vmenu_main_off:link { color: #4690FF; text-decoration: none; }
+       a.vmenu_main_off:visited { color: #4690FF; text-decoration: none; }
+       a.vmenu_main_off:hover { color: #FFFFFF; text-decoration: none; }
+       a.vmenu_main_off:active { color: #4690FF; text-decoration: none; }
+
+       a.vmenu_main_on:link { color: #4690FF; text-decoration: underline; }
+       a.vmenu_main_on:visited { color: #4690FF; text-decoration: underline; }
+       a.vmenu_main_on:hover { color: #FFFFFF; text-decoration: underline; }
+       a.vmenu_main_on:active { color: #4690FF; text-decoration: underline; }
+
+   /* </div> */
+  /* </td> */
+ /* </tr> */
+
+/*################################################################################
+>> Sub Menu Links
+##################################################################################
+
+ /* <tr> */
+
+  /* <td> ---- [<table><tr><td><div> >> </div></td><td><div><a>Main Page</a></div></td></table>] ---- </td>
+  /*-------------------------------------------------------------------------------------------------------------*/
+     td.vmenu_main_sub {
+        width: 100%;
+        border: 0px;
+        padding: 0px 0px 0px 0px;
+     }
+
+   /* <table> Submenu link table */
+   /*-----------------------------------------------------------*/
+      table.vmenu_subz {
+        width: 100%;
+        border: 0px;
+        padding: 0px 0px 0px 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+      }
+
+    /* <tr> */
+
+     /* <td> Submenu Item Bullet */
+     /*-----------------------------------------------------------*/
+        td.vmenu_sub_bull_off {
+           width: 20px;
+           padding: 0px 0px 3px 13px;
+           font-size: 11px;
+           font-weight: bold;
+           color: #858585;
+        }
+        td.vmenu_sub_bull_on {
+           width: 20px;
+           padding: 0px 0px 3px 13px;
+           font-size: 11px;
+           font-weight: bold;
+           color: #505050;
+        }
+
+      /* <div> Contains an individual main menu link (within td)
+      /*-----------------------------------------------------------*/
+         div.vmenu_sub_bull_off {
+            padding: 0px;
+            width: 100%;
+         }
+
+         div.vmenu_sub_bull_on {
+            padding: 0px;
+            width: 100%;
+         }
+
+      /* </div> */
+
+     /* </td> */
+
+     /* <td> Submenu Item Link */
+     /*-----------------------------------------------------------*/
+        td.vmenu_sub_off {
+           width: 100%;
+           border: 0px;
+           padding: 0px 0px 3px 5px;
+           font-size: 11px;
+           font-weight: normal;
+        }
+        td.vmenu_sub_on {
+           width: 100%;
+           border: 0px;
+           padding: 0px 0px 3px 5px;
+           font-size: 11px;
+           font-weight: bold;
+        }
+
+      /* <div> Contains an individual main menu link (within td)
+      /*-----------------------------------------------------------*/
+         div.vmenu_sub_off {
+            width: 100%;
+            border: 0px;
+            padding: 0px 0px 0px 0px;
+
+         }
+
+         div.vmenu_sub_on {
+            width: 100%;
+            border: 0px;
+            padding: 0px 0px 0px 0px;
+        }
+
+       /* <a href=> A cell containing an individual main menu link
+       /*-----------------------------------------------------------*/
+          a.vmenu_sub_off:link { color: #4690FF; text-decoration: none; }
+          a.vmenu_sub_off:visited { color: #4690FF; text-decoration: none; }
+          a.vmenu_sub_off:hover { color: #FFFFFF; text-decoration: none; }
+          a.vmenu_sub_off:active { color: #4690FF; text-decoration: none; }
+
+          a.vmenu_sub_on:link { color: #4690FF; text-decoration: none; }
+          a.vmenu_sub_on:visited { color: #4690FF; text-decoration: none; }
+          a.vmenu_sub_on:hover { color: #FFFFFF; text-decoration: none; }
+          a.vmenu_sub_on:active { color: #4690FF; text-decoration: none; }
+       /* </a> */
+
+      /* </div> */
+
+     /* </td> */
+
+/* =========================================================== */
+
+
+
+/*################################################################################################
+--------------------------------------------------------------------------------------------------
+>> Menu System - #HMAINS#
+--------------------------------------------------------------------------------------------------
+################################################################################################*/
+
+
+/* This is the main hsub table */
+table.hmains {
+   width: 100%;
+   border: 0px;
+   padding: 0px 0px 0px 0px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   font-weight: bold;
+}
+
+/* This cell contains a submenu link */
+td.hmains {
+   border: 0px;
+   padding: 2px 10px 2px 10px;
+}
+
+a.hmains:link { color: #0020E3; text-decoration: none; }
+a.hmains:visited { color: #0020E3; text-decoration: none; }
+a.hmains:hover { color: #4690FF; text-decoration: none; }
+a.hmains:active { color: #4690FF; text-decoration: none; }
+
+
+
+
+
+/*################################################################################################
+--------------------------------------------------------------------------------------------------
+>> Menu System - #HSUBS#
+--------------------------------------------------------------------------------------------------
+################################################################################################*/
+
+/* This is the main hsub table */
+table.hsubs {
+   border: 0px;
+   padding: 0px 0px 0px 0px;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 10px;
+}
+
+/* This cell contains a submenu link */
+td.hsubs {
+   border: 0px;
+   padding: 2px 10px 2px 10px;
+}
+
+a.hsubs:link { color: #0020E3; text-decoration: none; }
+a.hsubs:visited { color: #0020E3; text-decoration: none; }
+a.hsubs:hover { color: #4690FF; text-decoration: none; }
+a.hsubs:active { color: #4690FF; text-decoration: none; }
+
+
+/*################################################################################################
+--------------------------------------------------------------------------------------------------
+>> #NEWSBOX#
+--------------------------------------------------------------------------------------------------
+################################################################################################*/
+
+/* Newsbox
+/*-----------------------------------------------------------*/
+
+/* <font> */
+.newsbox_date {
+   font-family: tahoma, verdana, Courier New, Courier, mono;
+   font-size: 10px;
+   font-weight: bold;
+   color: #2E2E2E;
+}
+
+.newsbox {
+   font-family: arial, helvetica, sans-serif;
+   font-size: 11px;
+}
+
+a.newsbox:link { color: #0020E3; text-decoration: none; }
+a.newsbox:visited { color: #0020E3; text-decoration: none; }
+a.newsbox:hover { color: #4690FF; text-decoration: none; }
+a.newsbox:active { color: #4690FF; text-decoration: none; }
+
+/* <font> */
+.newsbox_tease {
+   font-family: Arial, helvetica, sans-serif;
+   font-size: 10px;
+   font-weight: normal;
+   color: #2E2E2E;
+}
+
+/* Full Ariticle Display
+/*-----------------------------------------------------------*/
+table.article_table {
+   font-family: arial, helvetica, sans-serif;
+   font-size: 12px;
+   font-weight: normal;
+   color: #000000;
+}
+
+td.article_title {
+   font-family: Courier New, Courier, mono;
+   font-size: 16px;
+   font-weight: bold;
+   color: #2E2E2E;
+}
+
+font.article_date {
+   color: #336699;
+}
+
+td.article_content {
+   padding: 4px;
+}
+
+/*################################################################################################
+--------------------------------------------------------------------------------------------------
+>> Old Styles (to be phased out after obsolecense is assured)
+--------------------------------------------------------------------------------------------------
+################################################################################################*/
+textarea {
+	font-size:8pt;
+	height:75px;
+	width:175px;
+}
+
+.logohead {
+	font-family : Arial;
+	font-size : 25pt;
+	font-weight : bold;
+}
+
+.logosub {
+	font-family : Arial;
+	font-size : 8pt;
+	font-weight : bold;
+}
+
+
+
+.border {
+	font-family: Arial;
+	font-size: 8pt;
+	border: 1px #000000 inset;
+}
+
+
+
+.menusys {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+#smt_tmenu a { font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
