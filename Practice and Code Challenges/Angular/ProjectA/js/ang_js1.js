@@ -37,8 +37,8 @@ var app1 = angular.module('app1', []);
 app1.controller('ctrl1', function($scope) {
 
   // Define initial values
-  $scope.first = 1;
-  $scope.second = 1;
+  $scope.first = 5;
+  $scope.second = 7;
 
   // Change the value for calculation when the button is clicked
   // I used a shortcut using the unary plus operator to convert

@@ -1,4 +1,5 @@
-/* The Modal (background) */
+/* The Modal (background)  */
+
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -14,6 +15,7 @@
 }
 
 /* Modal Content/Box */
+
 .modal-content {
     background-color: #fefefe;
     margin: 5px auto; /* 15% from the top and centered */

@@ -6,16 +6,16 @@ in the JS file we will create -->
 
 <!-- ng-init is a directive that initializes application data by assigning
 variable values -->
-<html ng-app="app1" ng-init="person = {fName: 'Derek', lName: 'Banas'};
-  capitals = [{city: 'Montgomery', state: 'Alabama'}, {city: 'Juneau', state: 'Alaska'}, {city: 'Phoenix', state: 'Arizona'}]">
+<html ng-app="app1" ng-init="person = {fName: 'Franco', lName: 'Armada'};
+  capitals = [{city: 'Seattle', state: 'Washington'},{city: 'Montgomery', state: 'Alabama'}, {city: 'Juneau', state: 'Alaska'}, {city: 'Phoenix', state: 'Arizona'}]">
   <head>
-    <title>AngularJS Tutorial</title>
+    <title>Working on Angular again</title>
   </head>
   <body>
 
     <!-- Adds a controller that the Angular module will control.
     The view is the div element and all that it contains. The $scope
-    component is used to provide data to the view. -->
+    component is used to provide data to the view.  Add more -->
     <div ng-controller="ctrl1">
       <span>Values:</span>
 
@@ -35,7 +35,7 @@ variable values -->
       {{calculation}}
 
       <!-- You can perform calculations in expressions -->
-      <p>5 + 5 = {{5+5}}</p>
+      <p>5 + 25 = {{5+25}}</p>
 
       <!-- Expressions bind data to HTML as well -->
       <p>Your first value is {{first}}</p>
