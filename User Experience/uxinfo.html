@@ -6,7 +6,6 @@
 </title>
 <head>
 <body>Sites to get ux tools
-http://www.uxforthemasses.com/resources/free-ux-tools/
 
 http://designroast.org/7-free-ux-design-tools/
 
@@ -20,5 +19,21 @@ http://designroast.org/7-free-ux-design-tools/
 
 
 
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body ng-app="">
+
+<div ng-init="link1 = 'http://www.uxforthemasses.com/resources/free-ux-tools'">
+<h1>Tools for UI</h1>
+<div>The first link to check out: </div>
+
+<p><a ng-href="{{link1}}">First Resource</a> to learn!</p>
+</div>
+
+<p>Don't forget to add more than one</p>
+
+</body>
+</html>
 
 
