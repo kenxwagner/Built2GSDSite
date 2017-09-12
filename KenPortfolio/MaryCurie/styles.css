@@ -1,0 +1,33 @@
+.text-primary {
+  text-align: center;
+}
+
+p {
+  margin: 60px;
+}
+.marieCuriePic {
+  border-radius:50%;
+  margin: auto;
+  display: block;
+}
+.hook{
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+}
+
+.bg-red {
+  background: lightgreen;
+}
+.links {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #d3d3d3;
+  text-align: center;
+  
+  border: 2px solid blue;
+}
+footer {
+  width: 50%;
+  margin: 0 auto;
+}
