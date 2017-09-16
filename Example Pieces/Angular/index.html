@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body>
+
+  <!--<div ng-app="">
+    <p>Let's add a bit of text here</p>
+    <p>Name: <input type="text" ng-model="name"></p>
+    Using "ng-bind" directive: <p ng-bind="name"></p>
+    This is using the expression: <p>{{name}}</p>
+    <p> Don't forget to do more {{120 - 240}}</p>
+
+  </div>-->
+<div ng-app="pickApp" ng-controller="myCtrl">
+  <p>Select an inventor:</p>
+
+  <select ng-model="selectedInventor" ng-options="x for (x,y) in inventors">
+  </select>
+<h1>You chose: {{selectedInventor}}</h1>
+  </div>
+  <script>
+  var app = angular.module('pickApp', []);
+  app.controller('myCtrl', function($scope) {
+      $scope.inventors = {
+          inventor01 : "Westinghouse",
+          inventor02 : "Tesla",
+          inventor03 : "Latimer",
+          inventor04 : "Edison",
+          inventor05 : "Lemelson"
+      }
+  });
+  </script>
+
+
+</body>
+  </html>
