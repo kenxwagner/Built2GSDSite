@@ -21,3 +21,12 @@
         margin: 25px 0;
     }
 }
+.logo-small {
+    color: #1b8201; /* Green */
+    font-size: 50px;
+}
+
+.logo {
+    color: #1b8201; /* Green */
+    font-size: 200px;
+}
