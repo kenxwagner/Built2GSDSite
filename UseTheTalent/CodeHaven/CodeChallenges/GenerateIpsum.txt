@@ -1,0 +1,28 @@
+/* Lorem Ipsum Generator
+
+   Lorem Ipsum filler text is often used to mock how a page might look with real-looking text.
+
+   Your task is to create a program that generates filler text like you can see that our program 
+   produced by changing the function "generateIpsum()" below.
+   
+   The source for the filler words must come from the variable "words" to produce about 1000 
+   characters of output.
+   
+   The time limit for this task is 20 minutes. If you run out of time, it is sufficient to 
+   explain how your solution is better or worse than the output of our program and how you 
+   would improve it if you had more time.
+   
+   Send the contents of this pane and the contents of the Result pane as text files when done.
+   
+*/
+
+var words = "The sky above the port was the color of television, tuned to a dead channel. All this happened, more or less. I had the story, bit by bit, from various people, and, as generally happens in such cases, each time it was a different story. It was a pleasure to burn.";
+
+function generateIpsum() {
+var newWords = words;
+ for(var i = 0; i<2; i++) {
+ 	 newWords += words.concat(" ", words);
+} return newWords.substr(0,1000);   
+}
+
+document.getElementById('fill').innerHTML = generateIpsum();
