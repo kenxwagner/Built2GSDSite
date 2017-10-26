@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 800px;
+            height: 200px;
+            text-align: center;
+        }
+              
+        }
+        .style2
+        {
+            color: #000000;
+            font-family: "Book Antiqua";
+            font-size: medium;
+        }
+        .style3
+        {
+            background-color: #FFFFFF;
+        }
+        .style4
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body background="images/scan0001.jpg"><div align="center"><img alt="Joe-Ellz Title" class="style1" 
+                    src="images/Joe-Ellz-Banner-v2-copy.jpg" align="middle" /><img src="images/CustomBabyShoes.jpg" /><br />
+    <br />
+    </div>
+    <div id="nav" class="style4">
+     
+            <a href="Default.aspx"><span class="style2"><strong><span class="style3">Home</span></strong></span></a>
+    
+            <a href="Contact.aspx"><span class="style2"><strong><span class="style3">Contact</span></strong></span></a>
+    </div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+     
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    </form>
+    
+</body>
+</html>

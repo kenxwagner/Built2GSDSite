@@ -1,0 +1,160 @@
+﻿.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+body {margin:0;font-size:13px;font-family:arial;color:#3F3F3F;background:#ccc}
+#header {background-image:url(images/top-bg.jpg);background-repeat:repeat-x;height:209px}
+.name {font-size:35px;font-family:Century;color:#fff;padding-left:20px}
+.tag {color:#B7CF1A;text-transform:uppercase;font-weight:bold;padding-left:22px}
+#links-bg {height:49px;background-image:url(images/links-bg.gif);background-repeat:repeat-x}
+.toplinks {width:160px;text-align:center;text-transform:uppercase;font-weight:bold}
+.toplinks a {color:#fff;text-decoration:none}
+.toplinks a:hover {color:#B7CF1A;text-decoration:none}
+.sap {width:1px;color:#fff}
+.catlinks {height:28px;line-height:28px;font-weight:bold;border-bottom:1px solid #ccc;font-family:tahoma;font-size:11px}
+.catlinks a {color:#fff;text-decoration:none;display:block;padding-left:20px;background:#969696}
+.catlinks a:hover {color:#F66D05;text-decoration:none;background:#000}
+.cat-head {font-family:tahoma;font-size:12px;font-weight:bold;color:#fff;height:35px;padding-left:12px;background:#F66D05}
+.offer {color:#FC9419;font-family:tahoma;font-size:14px;font-weight:bold;height:30px;line-height:30px}
+#main {text-align:justify;padding-left:15px;padding-right:15px;padding-top:8px;padding-bottom:15px}
+.smal-txt {font-size:11px}
+.main-head {font-family:tahoma;font-size:12px;font-weight:bold;color:#fff;height:35px;padding-left:12px;background:#B7CF1A;border-left:1px solid #fff}
+.head2 {font-family:tahoma;font-size:12px;font-weight:bold;color:#fff;height:35px;padding-left:12px;background:#969696;border-left:1px solid #fff}
+.bottomlinks {width:110px;text-transform:uppercase;font-size:11px;font-weight:bold;text-align:center}
+.bottomlinks a {text-decoration:none;color:#fff}
+.bottomlinks a:hover {color:#B7CF1A;text-decoration:none}
+.sap2 {color:#fff;width:1px}
+#footer div {padding:11px}
+a {color:#FA6B02;text-decoration:underline}
+a:hover {color:#FA6B02;text-decoration:none}
+/* CSS Resets */
+
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{border:0;margin:0;padding:0}article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}a img{border:0}figure{position:relative}figure img{width:100%}
+
+
+/* ==================================================================================================================== */
+/* ! The 1140px Grid V2 by Andy Taylor \ http://cssgrid.net \ http://www.twitter.com/andytlr \ http://www.andytlr.com */
+/* ==================================================================================================================== */
+
+.container {
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.row {
+width: 100%;
+max-width: 1140px;
+min-width: 755px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+.onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol {
+margin-right: 3.8%;
+float: left;
+min-height: 1px;
+}
+
+.row .onecol {
+width: 4.85%;
+}
+
+.row .twocol {
+width: 13.45%;
+}
+
+.row .threecol {
+width: 22.05%;
+}
+
+.row .fourcol {
+width: 30.75%;
+}
+
+.row .fivecol {
+width: 39.45%;
+}
+
+.row .sixcol {
+width: 48%;
+}
+
+.row .sevencol {
+width: 56.75%;
+}
+
+.row .eightcol {
+width: 65.4%;
+}
+
+.row .ninecol {
+width: 74.05%;
+}
+
+.row .tencol {
+width: 82.7%;
+}
+
+.row .elevencol {
+width: 91.35%;
+}
+
+.row .twelvecol {
+width: 100%;
+float: left;
+}
+
+.last {
+margin-right: 0px;
+}
+
+img, object, embed {
+max-width: 100%;
+}
+
+img {
+height: auto;
+}
+
+
+/* Smaller screens */
+
+@media only screen and (max-width: 1023px) {
+
+body {
+font-size: 0.8em;
+line-height: 1.5em;
+}
+
+}
+
+
+/* Mobile */
+
+@media handheld, only screen and (max-width: 767px) {
+
+body {
+font-size: 16px;
+-webkit-text-size-adjust: none;
+}
+
+.row, body, .container {
+width: 100%;
+min-width: 0;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.row .onecol, .row .twocol, .row .threecol, .row .fourcol, .row .fivecol, .row .sixcol, .row .sevencol, .row .eightcol, .row .ninecol, .row .tencol, .row .elevencol, .row .twelvecol {
+width: auto;
+float: none;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+}
