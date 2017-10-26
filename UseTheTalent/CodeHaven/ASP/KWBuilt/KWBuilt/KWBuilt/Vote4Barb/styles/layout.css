@@ -1,0 +1,116 @@
+﻿/* DIV tags */
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#container {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+}
+}
+#navcontainer
+{
+	background: url('../images/DBlueLBlue.jpg');
+	margin: 0 auto;
+	padding: 1em 5px 0 5px;
+	font-family: "Times New Roman";
+	text-transform: capitalize;
+}
+
+/* to stretch the container div to contain floated list */
+#navcontainer:after
+{
+content: ".";
+display: block;
+line-height: 1px;
+font-size: 1px;
+clear: both;
+}
+
+ul#navlist
+{
+list-style: none;
+padding: 0;
+margin: 0 auto;
+width: 80%;
+font-size: 0.8em;
+}
+
+ul#navlist li
+{
+display: block;
+float: left;
+width: 15%;
+margin: 0;
+padding: 0;
+}
+
+ul#navlist li a
+{
+display: block;
+width: 100%;
+padding: 0.5em;
+border-width: 1px;
+border-color: #ffe #aaab9c #ccc #fff;
+border-style: solid;
+color: #777;
+text-decoration: none;
+background: #f7f2ea;
+}
+
+#navcontainer>ul#navlist li a { width: auto; }
+
+ul#navlist li#active a
+{
+background: #f0e7d7;
+color: #800000;
+}
+
+ul#navlist li a:hover, ul#navlist li#active a:hover
+{
+color: #800000;
+background: transparent;
+border-color: #aaab9c #fff #fff #ccc;
+}
+
+#masthead {
+	width: 800px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#iMenu {
+	width: 800px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#column_l {
+	position: relative;
+	float: left;
+	margin: 0;
+}
+#column_r {
+	position: relative;
+	float: left;
+	margin: 0;
+}
+#content {
+	width: 800px;
+	margin: 0;
+	padding: 15px;
+	border: 0;
+}
+#footer {
+	width: 100%;
+	overflow: auto;
+	clear: both;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}

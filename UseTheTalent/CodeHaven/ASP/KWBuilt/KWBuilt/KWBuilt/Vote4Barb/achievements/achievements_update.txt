@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../master.dwt" -->
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Achievements</title>
+<style type="text/css">
+.style7 {
+	font-size: medium;
+	font-family: "Trebuchet MS", sans-serif, Verdana, Arial;
+	margin-left: 40px;
+}
+.style8 {
+	text-decoration: none;
+}
+.style10 {
+	color: #0000FF;
+}
+</style>
+<!-- #EndEditable -->
+<link href="../styles/mainstyle.css" rel="stylesheet" title="CSS" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<img src="../images/BarbTitle6.jpg" alt="Barbara Wagner for Benton County Assessor" longdesc="../Blue background. Red letters Barbara. White letters Wagner. Red line curved. Blue letters Benton County Assessor." /><img src="../images/Vote_for_Experience2.jpg" alt="Vote for Experience" longdesc="../Red background and white letters saying Vote for Experience" />
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin iMenu -->
+	<div id="nav-menu" style="width: 50em; height: 30px">
+	<ul style="width: 700px; height: 30px;">
+	    <li><a href="../default.html">Home     </a></li>
+	    <li><a href="../biography/biography.htm">Biography</a></li>
+	    <li><a href="../recognition/recognition.htm">Recognition</a></li>
+	    <li><a href="achievements.htm">Achievements     </a></li>
+	    <li><a href="../contact/contact.htm">Contact    </a></li>
+   </ul>
+</div> 
+	
+	<!-- End iMenu -->
+	
+		
+<!-- Facebook Like Badge START --><div style="width: 100%;"><div style="background: #3B5998;padding: 5px;"><img src="http://www.facebook.com/images/fb_logo_small.png" alt="Facebook"/><img src="http://badge.facebook.com/badge/114699015220889.100000902471104.1844709001.png" alt="" width="0" height="0"/></div><div style="background: #EDEFF4;display: block;border-right: 1px solid #D8DFEA;border-bottom: 1px solid #D8DFEA;border-left: 1px solid #D8DFEA;margin: 0px;padding: 0px 0px 5px 0px;"><div style="background: #EDEFF4;display: block;padding: 5px;"><table cellspacing="0" cellpadding="0" border="0"><tr><td valign="top"><img src="http://www.facebook.com/images/icons/fbpage.gif" alt=""/></td><td valign="top"><p style="color: #808080;font-family: verdana;font-size: 11px;margin: 0px 0px 0px 0px;padding: 0px 8px 0px 8px;"><a href="http://www.facebook.com/people/Barbara-Wagner/100000902471104" target="_TOP" style="color: #3B5998;font-family: verdana;font-size: 11px;font-weight: normal;margin: 0px;padding: 0px 0px 0px 0px;text-decoration: none;" title="Barbara Wagner">Barbara Wagner</a> likes</p></td></tr></table></div><div style="background: #FFFFFF;clear: both;display: block;margin: 0px;overflow: hidden;padding: 5px;"><table cellspacing="0" cellpadding="0" border="0"><tr><td valign="middle"><a href="http://www.facebook.com/pages/Vote-For-Barb/114699015220889" target="_TOP" style="border: 0px;color: #3B5998;font-family: verdana;font-size: 12px;font-weight: bold;margin: 0px;padding: 0px;text-decoration: none;" title="Vote For Barb"><img src="http://www.facebook.com/profile/pic.php?oid=AAAAAwAgACAAAAAPTEzi2Bbhb99mPl-dpyErAdISi7aS6faE8Cjl0QnjjZNQDhkAo46xTU9l1gw7VvAr_1w5o5WSt7MIP7MXyII3Yhp2OyBOoTKIhXr0jpsTRDGRAOzXpn1aS5D5LIHR4irt&size=square" style="border: 0px;margin: 0px;padding: 0px;" alt="Vote For Barb"/></a></td><td valign="middle" style="padding: 0px 8px 0px 8px;"><a href="http://www.facebook.com/pages/Vote-For-Barb/114699015220889" target="_TOP" style="border: 0px;color: #3B5998;font-family: verdana;font-size: 12px;font-weight: bold;margin: 0px;padding: 0px;text-decoration: none;" title="Vote For Barb">Vote For Barb</a></td></tr></table></div></div><div style="display: block;float: right;margin: 0px;padding: 4px 0px 0px 0px;"><a href="http://www.facebook.com/badges/like.php" target="_TOP" style="color: #3B5998;font-family: verdana;font-size: 11px;font-weight: none;margin: 0px;padding: 0px;text-decoration: none;" title="Create your Like Badge">Create your Like Badge</a></div></div><!-- Facebook Like Badge END -->
+	<!-- Begin Center Column -->
+	<div id="column_2" style="width: 750px; left: 0px; top: 0px;">
+		
+		<p class="style2">Re-Elect Barbara Wagner for Benton County Assessor</p>
+		<!-- #BeginEditable "content" -->
+		
+		<p class="style5">Office Achievement</p>
+		<p class="style6">The Benton County Assessor’s office is one of the top Assessor’s offices 
+		in the State. When it comes to measuring the uniformity and level of 
+		assessments, only one other County, besides Benton County has achieved a 
+		top-status rating for the last five years in a row. </p>
+		
+		<p class="style6">
+        I welcome you to review this excellent rating and see how other 
+		Counties rate in our State. Please look at the website for the 
+		Washington State House Committee on Finance (counties listed 
+		alphabetically):<o:p>&nbsp;</o:p></p>
+		<p class="style7">
+		<span class="style6">Page with
+		Benton County:</span><span class="style6"> </span> 		
+		<a class="style10" href="http://www.leg.wa.gov/House/Committees/FIN/Documents/2004/RatioText.pdf#page=10">
+		2004</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<span class="style6">Origin of report:</span>
+		<a href="http://www.leg.wa.gov/House/Committees/FIN/Pages/Ratio2004.aspx" class="style10">
+		Ratio Study Report 2004</a><span class="style10">&nbsp;&nbsp; </span> </p>
+		<p class="style7">
+		Page with Benton County:
+		<a class="style10" href="http://www.leg.wa.gov/House/Committees/FIN/Documents/2005/RatioText.pdf#page=10">2005</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<span class="style6">Origin of report:</span>
+		<a href="http://www.leg.wa.gov/House/Committees/FIN/Pages/Ratio2005.aspx" class="style10">
+		Ratio Study Report 2005</a><span class="style10">&nbsp;&nbsp;</span> </p>
+		<p class="style7">
+		Page with Benton County:
+		<a class="style10" href="http://www.leg.wa.gov/House/Committees/FIN/Documents/2006/RatioText.pdf#page=10">2006</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<span class="style6">Origin of report:</span>
+		<a href="http://www.leg.wa.gov/House/Committees/FIN/Pages/Ratio2006.aspx" class="style10">
+		Ratio Study Report 2006</a>&nbsp;&nbsp; </p>
+		<p class="style7">
+		Page with Benton County:
+		<a class="style10" href="http://www.leg.wa.gov/House/Committees/FIN/Documents/2007/RatioText.pdf#page=10">2007</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<span class="style6">Origin of report:</span>
+		<a href="http://www.leg.wa.gov/House/Committees/FIN/Pages/Ratio2007.aspx" class="style10">
+		Ratio Study Report 2007</a>&nbsp;&nbsp; </p>
+		<p class="style7"> 
+		Page with Benton County:
+		<a class="style10" href="http://www.leg.wa.gov/House/Committees/FIN/Documents/2008/RatioText.pdf#page=10">2008</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<span class="style6">&nbsp;&nbsp;&nbsp; Origin of report:</span></o:p>
+		<span class="style10">
+		<a href="http://www.leg.wa.gov/House/Committees/FIN/Pages/Ratio2008.aspx">Ratio Study Report 2008</a></span></p>
+		
+		<p class="style6"> 
+		Here is another study that will show you the excellent job the Benton 
+		County Assessor’s office is doing.&nbsp; Go to:&nbsp;&nbsp;
+		<a href="http://dor.wa.gov/content/aboutus/statisticsandreports/stats_proptaxstats.aspx">
+		Washington Department of Revenue: Property Tax Statistics</a></p>
+		<p class="style6"> 
+		
+		<span class="style6">Once there click on Annual Ratio Study Results. 
+		You will see </span>
+		<st1:place><span class="style6"><st1:PlaceName>Benton</st1:PlaceName></span>
+		<span class="style6"> <st1:PlaceType>County</st1:PlaceType></span></st1:place><span class="style6"> 
+		has a Real Property 2009 ratio of 94.2% and a Personal Property ratio of 
+		95.3%.&nbsp; These percentages of ratio are determined by Department of 
+		Revenue and with these excellent Ratio Percentages that are better than 
+		all the Counties that border </span> <st1:place><span class="style6"><st1:PlaceName>
+		Benton</st1:PlaceName></span> <span class="style6">
+		<st1:PlaceType>County</st1:PlaceType></span></st1:place><span class="style6"> 
+		this saves us money.&nbsp; You may wonder how this can save us on taxes.&nbsp; 
+		That’s because the lower this “ratio rate” is the higher a County must 
+		pay towards the State Tax.&nbsp; In other words the portion of property 
+		taxes going to the State Government has an adjusted levy rate that goes 
+		up (increases) as your Ratio gets further away from 100%.</span></p>
+		
+		<p class="style6">
+		Every year the Washington State Office of Program Research publishes the 
+		results titled “Measuring Real Property Appraisal Performance in 
+		Washington’s Property Tax System”. This Research group uses the 
+		International Association of Assessing Officers (IAAO) standards for 
+		performance, to measure the level and uniformity assessments of all 
+		Counties in Washington State.</p>
+		<p class="style6">
+		There are eight assessment categories used to measure uniformity and 
+		level of assessment. For the last five years only two Counties, Benton 
+		and Clark have maintained the prestigious honor of 100% rating year 
+		after year.</p>
+		<p class="style6">
+		Taxpayers can feel assured with this excellent measure of standards in 
+		Benton County, that property taxes are distributed equally in proportion 
+		to assessed value. Counties that do not meet this top standard have a 
+		lower degree of uniformity, thus creating an inequity, which brings 
+		about some property owners paying more than their appropriate share of 
+		property taxes while other owners pay less than their share in that same 
+		county.</p>
+		<p class="style6"> 
+		<span class="style6"><span class="style6">Appreciation and thanks go to 
+		the professional accredited appraisers that have maintained this 
+		excellent rating.&nbsp; We will do our best to maintain this A+ rating 
+		in </span> <st1:place><span class="style6"><st1:PlaceName>Benton</st1:PlaceName></span>
+		<span class="style6"> <st1:PlaceType>
+		County</st1:PlaceType></span></st1:place></span>.</p>
+
+		
+		<!-- #EndEditable "content" -->
+		
+		
+		<!-- #BeginEditable "content" -->
+
+		
+		<!-- #EndEditable -->
+		<strong><p class="style6">Benton County Assessor</p>
+		
+
+		<p class="style6">Barbara Wagner</p>
+		
+		</strong>
+		<p></p>
+
+		
+		</div>
+	<!-- Begin Footer -->
+		<div id="footer">
+		
+			<img alt="Footer for Elect Barb Wagner"  longdesc="../The bottom picture for all pages" src="../images/CheckBoxFooterBWagner.jpg" height="91" width="800"  />
+			<img src="../images/KGW_Web_Design.jpg" alt="Copyright 2010 Web Design" longdesc="../Copyright 2010 Ken Wagner Web Designs. All rights reserved." />
+			</div>
+	<!-- End Footer -->
+	</div>
+<!-- End Container -->
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
