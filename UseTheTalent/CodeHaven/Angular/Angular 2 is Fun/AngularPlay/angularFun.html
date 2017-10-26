@@ -1,0 +1,34 @@
+<!doctype html>
+<!-- Here we see ng-app parameter in the root element so AngularJS
+knows where compiling starts. app1 is the name of the module and is therefore
+referenced in the JS file created -->
+
+<!-- ng-init is a directive for initializing application data by assigning the
+values of variables -->
+<html ng-app="app1" ng-init="person = {fName: 'Ken', lName: 'GW'}; capitals = [{city: 'Kennewick', state:'Washington'},
+{city:'Portland', state: 'Oregon'}, {city: 'Boise', state: 'Arizona'}]">
+  <head>
+    <title>Building Sites in AngularJS is fun</title>
+  </head>
+  <body>
+    <!-- Here is a controller that has been added for the Angular module to
+    control. The view in this case is the div element and all that is contained
+    within it. The $scope component will be used to provide data to tis-->
+    <div ng-controller="ctrl1">
+      <span> Values:</span>
+
+      <input type="text" ng-model="first" />
+      <input type="text" ng-model="second" />
+
+      <button ng-click="updateValue()">Sum</button>
+      <br><br>
+      {{calculation}}
+      <p>12 + 8 = {{12+8}}</p>
+    </div>
+
+    <script
+    src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js">
+    </script>
+    <script src="js/exam1.js"></script>
+  </body>
+</html>
