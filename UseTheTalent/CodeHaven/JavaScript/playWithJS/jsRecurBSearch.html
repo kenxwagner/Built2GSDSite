@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<p>
+
+binary search 
+</p>
+<p id="binaryOut"></p>
+
+<script>
+function binary_search_rec(a, value, lo, hi) {
+	if (hi < lo){return null;}
+	
+	var mid = Math.floor((lo + hi) /2);
+	
+	if (a[mid] > value) {
+		return binary_search_rec(a, value, lo, mid - 1);
+	}
+	if (a[mid] < value) {
+		return binary_search_rec(a, value, mid + 1, hi);
+	}
+
+	
+	return mid ;
+	}	
+	document.getElementById("binaryOut").innerHTML=myFunction(14,33);
+</script>
+</body>
+</html>
