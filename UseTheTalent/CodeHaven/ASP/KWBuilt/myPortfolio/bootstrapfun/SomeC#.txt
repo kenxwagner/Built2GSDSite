@@ -1,0 +1,112 @@
+
+@{
+    var txt = "";
+    if (DateTime.Now.Hour > 12)
+    { txt = "Good Evening"; }
+    else
+    { txt = "Good Morning"; }
+}
+@{
+    var totalMessage = "";
+    if (IsPost)
+    {
+        var num1 = Request["text1"];
+        var num2 = Request["text2"];
+        var total = num1.AsInt() + num2.AsInt();
+        totalMessage = "Total = " + total;
+    }
+}
+<h2>work_c_sharp</h2>
+<div class="jumbotron">
+    <h1>C#/C++</h1>
+    <p class="lead">It starts out scary, but it doesn't stay that way</p>
+    <p>Since 2010</p>
+    <table border="1">
+        <tr>
+            <th width="100px">Name</th>
+            <td width="100px">Value</td>
+        </tr>
+        <tr>
+            <td>Day</td>
+            <td>@DateTime.Now.Day</td>
+        </tr>
+        <tr>
+            <td>Hour</td>
+            <td>@DateTime.Now.Hour</td>
+        </tr>
+        <tr>
+            <td>Minute</td>
+            <td>@DateTime.Now.Minute</td>
+        </tr>
+        <tr>
+            <td>Second</td>
+            <td>@DateTime.Now.Second</td>
+        </tr>
+        </td>
+    </table>
+    <p>Here is where I tell you: @txt</p>
+</div>
+
+<div class="row">
+    <div class="col-lg-4">
+        <h2>In Progress</h2>
+        <p>
+            <ul>
+                @for (int i = 0; i < 10; i++)
+                {
+                    <li>@i</li>
+                }
+            </ul>
+        <p>></p>
+    </div>
+    <div class="col-lg-4">
+        <h2>Remember me</h2>
+        <p>
+            <!--	Multi-statement block -->
+            @{
+                var greeting = "Welcome to my site!";
+                var weekDay = DateTime.Now.DayOfWeek;
+                var greetingMessage = greeting + " Here in Kennewick it is: " + weekDay;
+            }
+        <p>The greeting is: @greetingMessage</p></p>
+    </div>
+    <div class="col-lg-4">
+        <h2>Message</h2>
+        <p></p>
+        <form action="" method="post">
+            <p>
+                <label for="text1">First Number:</label><br>
+                <input type="text" name="text1">
+            </p>
+            <p>
+                <label for="text2">Second Number:</label><br>
+                <input type="text" name="text2">
+            </p>
+            <p><input type="submit" value=" Add "></p>
+        </form>
+
+        <p>
+            /*
+            * C# This gets the Length of the Array
+            */
+            using System;
+            class Program
+            {
+            static void Main()
+            {
+
+            int[] arrayA = new int[5];
+            int lengthA = arrayA.Length;
+            Console.WriteLine("Length of ArrayA : {0}", +lengthA);
+            long longLength = arrayA.LongLength;
+            Console.WriteLine("Length of the LongLength Array  : {0}",longLength);
+            int[,] twoD = new int[5, 10];
+            Console.WriteLine("The Size of 2D Array is : {0}",twoD.Length);
+            Console.ReadLine();
+            }
+            }
+
+        <p>@totalMessage</p>
+        </p>
+    </div>
+</div>

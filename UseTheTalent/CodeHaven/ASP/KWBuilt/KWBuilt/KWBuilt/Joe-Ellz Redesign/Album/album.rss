@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Joe-Ellz</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description>Joe-Ellz 
+Custom 
+Shoes </description>
+        <item>
+            <title>Joe-Ellz Shoes (51)</title>
+            <link>slides/Joe-Ellz Shoes (51).jpg#</link>
+            <pubDate>Sat, 09 Jun 2012 13:34:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Joe-Ellz Shoes (51).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Joe-Ellz Shoes (51).jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Joe-Ellz Shoes (51).jpg</guid>
+        </item>
+        <item>
+            <title>Joe-Ellz Shoes (52)</title>
+            <link>slides/Joe-Ellz Shoes (52).jpg#</link>
+            <pubDate>Sat, 09 Jun 2012 13:34:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Joe-Ellz Shoes (52).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Joe-Ellz Shoes (52).jpg" width="570" height="380"/>
+            <guid isPermaLink="false">slides/Joe-Ellz Shoes (52).jpg</guid>
+        </item>
+        <item>
+            <title>Joe-Ellz Shoes side view (1)</title>
+            <link>slides/Joe-Ellz Shoes side view (1).jpg#</link>
+            <pubDate>Sat, 09 Jun 2012 13:34:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Joe-Ellz Shoes side view (1).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Joe-Ellz Shoes side view (1).jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/Joe-Ellz Shoes side view (1).jpg</guid>
+        </item>
+        <item>
+            <title>Joe-Ellz Shoes (43)</title>
+            <link>slides/Joe-Ellz Shoes (43).jpg#</link>
+            <pubDate>Sat, 09 Jun 2012 13:34:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Joe-Ellz Shoes (43).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Joe-Ellz Shoes (43).jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Joe-Ellz Shoes (43).jpg</guid>
+        </item>
+        <item>
+            <title>Joe-Ellz Shoes (12)</title>
+            <link>slides/Joe-Ellz Shoes (12).jpg#</link>
+            <pubDate>Sat, 09 Jun 2012 13:34:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Joe-Ellz Shoes (12).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Joe-Ellz Shoes (12).jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Joe-Ellz Shoes (12).jpg</guid>
+        </item>
+        <item>
+            <title>Joe-Ellz Shoes (39)</title>
+            <link>slides/Joe-Ellz Shoes (39).jpg#</link>
+            <pubDate>Sat, 09 Jun 2012 13:34:58 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Joe-Ellz Shoes (39).jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Joe-Ellz Shoes (39).jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Joe-Ellz Shoes (39).jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,220 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="Gallery" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
+
+<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Joe-Ellz</title>
+	<meta name="description" content="Joe-Ellz  Custom  Shoes">
+	<meta name="generator" content="Created with jAlbum &amp; Turtle - unregistered">
+	<meta name="viewport" content="user-scalable=yes, width=940">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="robots" content="index,follow">
+	<link rel="apple-touch-icon" href="../res/apple-touch-icon.png">
+	<link rel="shortcut icon" href="../res/favicon.ico">
+	<link rel="stylesheet" href="../res/common.css?v=3.3.0">
+	<link rel="stylesheet" href="../res/styles.css">
+	<script src="../res/modernizr-2.5.3.min.js"></script>
+<link rel="alternate" href="../album.rss" type="application/rss+xml"/>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
+<div id="mainbg">&nbsp;</div><div id="widgetbg">&nbsp;</div>
+	<div id="main" role="main"><div class="container">
+		<script>		    if (window.location.hash && window.location.hash.length) document.getElementById('main').style['display'] = 'none';</script>
+		
+		<header style="background-image:url('../folderimage.jpg');">
+			
+
+			
+			<div class="title clearfix">
+				<hgroup>
+					<h1>Joe-Ellz</h1>
+					<h5>Joe-Ellz <br/>Custom <br/>Shoes 
+</h5>
+				</hgroup>
+			</div>
+		</header>
+		
+		
+		<div class="items">
+			<div class="cont">
+				
+				
+
+				
+
+
+				
+
+
+
+				<div class="thumbs">
+					<ul>
+					<li style="clear:left;"><a href="../slides/Joe-Ellz%20Shoes%20(51).jpg" 
+                            title="<span class=&#34;nr&#34;>1</span>"><img src="../res/load.gif" 
+                            alt="Joe-Ellz Shoes (51)" data-caption="<h2>Joe-Ellz Shoes (51)</h2>" 
+                            data-modified="15230" data-size="253.00 kB" data-width="900" data-height="600"></a></li>
+					<li><a href="../slides/Joe-Ellz%20Shoes%20(52).jpg" 
+                            title="<span class=&#34;nr&#34;>2</span>"><img src="../res/load.gif" 
+                            alt="Joe-Ellz Shoes (52)" data-caption="<h2>Joe-Ellz Shoes (52)</h2>" 
+                            data-modified="15230" data-size="111.00 kB" data-width="570" data-height="380"></a></li>
+					<li><a href="../slides/Joe-Ellz%20Shoes%20side%20view%20(1).jpg" 
+                            title="<span class=&#34;nr&#34;>3</span>"><img src="../res/load.gif" 
+                            alt="Joe-Ellz Shoes side view (1)" 
+                            data-caption="<h2>Joe-Ellz Shoes side view (1)</h2>" data-modified="15427" 
+                            data-size="94.00 kB" data-width="800" data-height="600"></a></li>
+					<li><a href="../slides/Joe-Ellz%20Shoes%20(43).jpg" 
+                            title="<span class=&#34;nr&#34;>4</span>"><img src="../res/load.gif" 
+                            alt="Joe-Ellz Shoes (43)" data-caption="<h2>Joe-Ellz Shoes (43)</h2>" 
+                            data-modified="15404" data-size="75.00 kB" data-width="900" data-height="600"></a></li>
+					<li><a href="../slides/Joe-Ellz%20Shoes%20(12).jpg" 
+                            title="<span class=&#34;nr&#34;>5</span>"><img src="../res/load.gif" 
+                            alt="Joe-Ellz Shoes (12)" data-caption="<h2>Joe-Ellz Shoes (12)</h2>" 
+                            data-modified="15404" data-size="72.00 kB" data-width="900" data-height="600"></a></li>
+					<li><a href="../slides/Joe-Ellz%20Shoes%20(39).jpg" 
+                            title="<span class=&#34;nr&#34;>6</span>"><img src="../res/load.gif" 
+                            alt="Joe-Ellz Shoes (39)" data-caption="<h2>Joe-Ellz Shoes (39)</h2>" 
+                            data-modified="15404" data-size="68.00 kB" data-width="900" data-height="600"></a></li>
+					</ul>
+				</div>
+
+
+
+				<footer><div class="wrap">
+					<div class="footer-links">6 images &nbsp; &middot; &nbsp; Create <a href="http://jalbum.net/">websites</a> with <a href="http://jalbum.net" title="jAlbum, freeware album generator, v10.7.2" class="showhint">jAlbum</a> &amp; <a href="http://lazaworx.com/" title="Skin: Turtle Black, 3.3.0 [&lt;b&gt;&lt;a href=&quot;http://jalbum.net/skins/skin/Turtle&quot;&gt;Download&lt;/a&gt;&lt;/b&gt;]" class="showhint">Turtle</a> &nbsp; &middot; &nbsp; <a href="javascript:void(0)" title="Get help using Turtle skin" class="helplink showhint">Help</a></div>
+				</div></footer>
+			</div>
+		</div>
+	</div></div>
+	<div class="hook"><span class="hook-b">&nbsp;</span><span class="hook-c">&nbsp;</span></div>
+
+	
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>	    window.jQuery || document.write('<script src="res/jquery-1.7.2.min.js"><\/script>')</script>
+	
+	
+	<script src="../res/skin.min.js?v=3.3.0"></script>
+	<script>
+	    var _jaWidgetBarColor = 'black';
+
+	    jQuery.fx.interval = $.support.touch ? 20 : 50;
+
+	    $(document).ready(function () {
+	        if ($.browser.msie && $.browser.version <= 7) {
+	            $('.container').height($('body').height());
+	        }
+	        var enableKeys = function () { return typeof _jaWidgetFocus === 'undefined' || !_jaWidgetFocus; }; ;
+	        if (/mobile/i.test(navigator.userAgent) && !location.hash) {
+	            setTimeout(function () {
+	                window.scrollTo(0, 0);
+	                window.orientationchange = function () {
+	                    window.scrollTo(0, 0);
+	                };
+	            }, 100);
+	        }
+
+	        var t = $('#main');
+
+
+	        t.find('.items > .cont').addScroll({
+	            enableMouseWheel: true,
+	            enableKeyboard: true
+	        });
+
+	        var i = t.find('.thumbs'),
+				f = t.find('.folders > ul > li');
+	        if (t.is(':visible')) {
+	            f.equalHeight();
+	        }
+	        if (i.length) {
+	            i.turtleGallery({
+	                resPath: 'res',
+	                relPath: '',
+	                header: '#main header',
+	                level: 0,
+	                showStart: true,
+	                skipIndex: false,
+	                uplink: '',
+	                slideshowDelay: 4000,
+	                slideshowLoop: false,
+	                slideshowAuto: false,
+	                afterLast: 'ask',
+	                infoOn: false,
+	                metaOn: false,
+	                regionsOn: false,
+	                thumbsOn: false,
+	                shareOn: false,
+	                showImageNumbers: true,
+	                preScale: 0.95,
+	                speed: 600,
+	                transitions: true,
+	                fitImage: false,
+	                fitShrinkonly: false,
+	                slides: 'slides',
+	                thumbs: 'thumbs',
+	                loadImg: 'load.gif',
+	                thumbHeight: 100,
+	                rightClickProtect: false,
+	                markNewDays: 0,
+	                enableKeyboard: true,
+	                enableMouseWheel: true,
+	                licensee: '',
+	                numberLinks: false
+	            }, {
+	                startSlideshow: 'Start slideshow', newItem: 'NEW', firstPage: 'First page', lastPage: 'Last page', atFirstPage: 'At first page', atLastPage: 'At last page', atLastPageQuestion: 'Where to go next?', startOver: 'Start over', stop: 'Stop', share: 'Share', shareOn: 'Share on', checkOutThis: 'Check this out', previousPicture: 'Previous picture', nextPicture: 'Next picture', backToHome: 'Back to home', upOneLevel: 'Up one level', backToIndex: 'Back to index page', oneToOneSize: '1:1 size', fitToScreen: 'Fit to screen', showInfo: 'Show caption / info', hideInfo: 'Hide caption / info', showThumbs: 'Show thumbnails', hideThumbs: 'Hide thumbnails', startAutoplay: 'Start autoplay', stopAutoplay: 'Stop autoplay', clickToOpen: 'Click to open this document with the associated viewer', metaBtn: 'Photo data', metaLabel: 'Display photograpic (Exif/Iptc) data', map: 'Map', mapBtn: 'Map', mapLabel: 'Show the photo location on map', noGPS: 'No GPS data found', shopBtn: 'Buy', shopLabel: 'Show options to buy this item', buyThis: 'Buy this item', notForSale: 'Not for sale.', shareBtn: 'Share', shareLabel: 'Share this photo over social sites', download: 'Download', original: 'Original', hiRes: 'Hi res.', saveTip: 'Use <b>Right click + Save link as...</b> to download', fotomotoHint: 'Buy prints or download, send eCard through Fotomoto'
+	            });
+	        }
+
+
+
+	        $('.helplink').turtleHelp({
+	            useF1: true,
+	            templ: '<h2>{0}</h2><ul class="help index"><li><span>1</span>{1}</li><li><span>2</span>{2}</li><li><span>3</span>{3}</li><li><span>4</span>{4}</li><li><span>5</span>{5}</li><li><span>6</span>{6}</li></ul><hr><ul class="help gall"><li><span>1</span>{7}</li><li><span>2</span>{8}</li><li><span>3</span>{9}</li><li><span>4</span>{10}</li><li><span>5</span>{11}</li><li><span>6</span>{12}</li><li><span>7</span>{13}</li></ul><p>{14}</p>'
+	        }, {
+	            help: ['Using Turtle gallery', 'Top <b>navigation</b> bar with <b>Home</b> button', '<b>Up</b> one level <em>Up arrow</em>', 'Author or company <b>information</b>', '<b>Share</b> and <b>Like</b> buttons for social networking', '<b>Search</b> button', 'Start <b>slideshow</b> <em>Numpad *</em>', '<b>Previous</b> picture <em>Left arrow</em><em>Swipe right</em>', 'Back to <b>thumbnail page</b> / up one level <em>Esc</em>', 'Toggle <b>fit to screen</b> or <b>1:1</b> size <em>Numpad +</em>', 'Show/hide <b>captions</b> and other panels, like Metadata, Map, Shopping, etc. <em>Numpad -</em>', 'Show/hide <b>thumbnail</b> scroller <em>Numpad -</em>', 'Start/stop <b>slideshow</b> <em>Numpad *</em>', '<b>Next</b> picture <em>Right arrow</em><em>Swipe left</em>', 'Press <b>F1</b> any time to get help!']
+	        });
+
+	        var alignCtr = {
+
+	            posX: 1,
+	            posY: 0,
+	            toX: 1,
+	            toY: 2
+	        };
+	        $('header .showhint, .homelink .showhint').addHint(alignCtr);
+	        $('footer .showhint').addHint();
+
+
+
+
+
+	    });
+		
+	</script>
+	
+	<div id="jalbumwidgetcontainer"></div>
+<script type="text/javascript" charset="utf-8"><!--    //--><![CDATA[//><!--
+    _jaSkin = "Turtle";
+    _jaStyle = "Black.css";
+    _jaVersion = "10.7.2";
+    _jaGeneratorType = "desktop";
+    _jaLanguage = "en";
+    _jaPageType = "index";
+    _jaRootPath = ".";
+    _jaGuid = "1339153918482";
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "http://jalbum.net/widgetapi/load.js";
+    document.getElementById("jalbumwidgetcontainer").appendChild(script);
+    //--><!]]></script>
+
+	
+	<!--[if lt IE 7 ]>
+		<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+		<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+	<![endif]-->
+</asp:Content>
+

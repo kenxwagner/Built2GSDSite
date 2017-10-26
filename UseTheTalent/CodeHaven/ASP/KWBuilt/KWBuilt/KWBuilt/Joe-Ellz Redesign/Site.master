@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/site.css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class='cssmenu'>
+            <ul class="menu">
+  <li><a href="Default.aspx" class="active"><span>Home</span></a></li>
+  <li><a href="About.aspx"><span>About</span></a></li>
+  <li><a href="Photos.aspx"><span>Photos</span></a></li>
+  <li><a href="Contact.aspx"><span>Contact</span></a></li>
+  <li><a href="http://www.facebook.com/joeellz"><span>Joe-Ellz on FaceBook</span></a></li>
+  <li><a href="http://www.etsy.com/shop/JoeEllz"><span>Etsy Page</span></a></li>
+</ul>
+
+</div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear" style="width: inherit">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

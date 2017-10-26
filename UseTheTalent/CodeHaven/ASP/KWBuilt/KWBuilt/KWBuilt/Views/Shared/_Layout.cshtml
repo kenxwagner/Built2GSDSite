@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - KW Built</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+  <div class="container">
+      <div class="masthead">
+          <img class="img-responsive" src="~/images/kwbuilticon2.png"/>        
+         
+          <ul class="nav nav-justified">
+              <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "active" })</li>
+              <li>@Html.ActionLink("Portfolio", "Portfolio", "Home")</li>
+              <li>@Html.ActionLink("Resume", "Resume", "Home")</li>
+              <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+          </ul>
+      </div>
+  </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - KWBuilt.com</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

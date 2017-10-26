@@ -1,0 +1,339 @@
+A:active
+{
+    COLOR: blue
+}
+A:link
+{
+    COLOR: blue
+}
+A:hover
+{
+    COLOR: blue
+}
+A:hover
+{
+    TEXT-DECORATION: underline
+}
+A:active
+{
+    TEXT-DECORATION: underline
+}
+A:visited
+{
+    COLOR: blue
+}
+A
+{
+    COLOR: blue;
+    TEXT-DECORATION: none
+}
+.TextNavBar
+{
+    BACKGROUND-COLOR: transparent;
+    BORDER-BOTTOM-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-TOP-STYLE: none;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-WEIGHT: normal;
+    TEXT-ALIGN: center;
+    VERTICAL-ALIGN: baseline
+}
+.resultheader
+{
+    BACKGROUND-COLOR: #b9b9b9;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: bolder
+}
+.resulttext
+{
+    BACKGROUND-COLOR: #d2f0ff;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: xx-small
+}
+.title
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 18pt;
+    FONT-WEIGHT: bold
+}
+.text
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt
+}
+.PrimeResult
+{
+    BACKGROUND-COLOR: olive;
+    COLOR: red;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: xx-small
+}
+.CategoryLinks
+{
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 13pt;
+    FONT-WEIGHT: bold
+}
+.background
+{
+    BACKGROUND-COLOR: white;
+    BACKGROUND-REPEAT: repeat
+}
+.frontpage
+{
+    BACKGROUND-COLOR: white;
+    BACKGROUND-IMAGE: url(images/backhome_new.jpg);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: no-repeat
+}
+.paper
+{
+    BACKGROUND-COLOR: white;
+    BORDER-BOTTOM: gray 1pt;
+    BORDER-TOP: silver 1pt;
+    HEIGHT: 100%;
+    WIDTH: 625px
+}
+.paper_footer
+{
+    BACKGROUND-COLOR: whitesmoke;
+    BORDER-LEFT: lightskyblue 2pt outset;
+    BORDER-RIGHT: lightskyblue 2pt inset;
+    TEXT-ALIGN: center
+}
+.window
+{
+    BACKGROUND-COLOR: #808080;
+    HEIGHT: 100%;
+    WIDTH: 100%
+}
+.headers
+{
+    COLOR: #0033cc;
+    FONT-FAMILY: Verdana
+}
+.header
+{
+    COLOR: #888888;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold
+}
+.sectionsubtitle
+{
+    BACKGROUND-COLOR: lightsteelblue;
+    COLOR: royalblue;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold
+}
+.usingthissitetext
+{
+    BACKGROUND-COLOR: #e5e5e8;
+    COLOR: #0033cc;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: 500;
+    WIDTH: 100%
+}
+.headerbk
+{
+    COLOR: royalblue;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt
+}
+.headercategory
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana
+}
+.headerlinks
+{
+    FONT-FAMILY: Verdana
+}
+.headernav
+{
+    COLOR: #444444;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt
+}
+.headernavlinks
+{
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 7.5pt;
+    FONT-WEIGHT: bold
+}
+.navdk
+{
+    BACKGROUND-COLOR: silver;
+    WIDTH: 140px
+}
+.navfooter
+{
+    BACKGROUND-COLOR: #cccccc
+}
+.navleftbackground
+{
+    BACKGROUND-COLOR: #0033cc;
+    WIDTH: 134px
+}
+.navleftline1
+{
+    BACKGROUND-COLOR: gray
+}
+.navleftline2
+{
+    BACKGROUND-COLOR: fuchsia
+}
+.navline1
+{
+    BACKGROUND-COLOR: #0033cc
+}
+.navline2
+{
+    BACKGROUND-COLOR: #000099
+}
+.navline3
+{
+    BACKGROUND-COLOR: white
+}
+.navline4
+{
+    BACKGROUND-COLOR: silver
+}
+.navline5
+{
+    BACKGROUND-COLOR: #0033cc
+}
+.navline6
+{
+    BACKGROUND-COLOR: #000099
+}
+.navline7
+{
+    BACKGROUND-COLOR: silver
+}
+.navlt
+{
+    BACKGROUND-COLOR: #0033cc;
+    TEXT-ALIGN: right
+}
+.navltlog
+{
+    BACKGROUND-COLOR: #0033cc;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 7.5pt;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: right
+}
+.navsearch
+{
+    BACKGROUND-COLOR: #0033cc
+}
+.headerblack
+{
+    COLOR: #333333;
+    FONT-FAMILY: Verdana
+}
+.headersic
+{
+    FONT-FAMILY: Verdana
+}
+.hometext
+{
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt
+}
+.footertext
+{
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 7.5pt;
+    FONT-WEIGHT: bold
+}
+.headerlinkssmall
+{
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 7pt
+}
+.headeraccount
+{
+    COLOR: #333333;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold
+}
+.headerdate
+{
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 7.5pt;
+    FONT-WEIGHT: bold
+}
+.headerbkred
+{
+    COLOR: red;
+    FONT-FAMILY: Verdana
+}
+.headernotes
+{
+    COLOR: gray;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 8pt
+}
+.headernotessm
+{
+    COLOR: gray;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 8pt
+}
+.headersvfirst
+{
+    COLOR: #888888;
+    FONT-FAMILY: Arial
+}
+.headerforms
+{
+    COLOR: #333333;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold
+}
+.footerbg
+{
+    BACKGROUND-IMAGE: url(/images/footer_bg.gif);
+    BACKGROUND-POSITION: right center;
+    BACKGROUND-REPEAT: no-repeat
+}
+.headershome
+{
+    COLOR: #0033cc;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9.5pt;
+    FONT-WEIGHT: bold
+}
+.headera
+{
+    COLOR: #888888;
+    FONT-FAMILY: Verdana
+}
+.hometextblue
+{
+    COLOR: #0033cc;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 9pt
+}
+.searchtext
+{
+    COLOR: #222222;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9.5pt
+}
