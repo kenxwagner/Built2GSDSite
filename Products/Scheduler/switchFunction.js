@@ -31,3 +31,18 @@ function requestTimeOff() {
 requestTimeOff(1);
 requestTimeOff(4);
 requestTimeOff(9);
+
+var someCount = 0;
+
+function assetLocation() {
+	var assetNumber = 0;
+	while (!assetNumber){
+		for (assetNumber < 100)
+			console.log("Asset Number: " + assetNumber);
+			someCount++;
+			assetNumber++;
+	}
+}
+
+assetLocation(12);
+assetLocation(120);
