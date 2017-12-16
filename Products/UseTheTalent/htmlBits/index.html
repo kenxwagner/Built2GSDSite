@@ -11,40 +11,20 @@
 </head>
 <body>
 
-<div class="jumbotron text-center">
-  <h1>Use The Talent </h1>
-  <p>Find out your own talent or hire someone elses.</p> 
-</div>
- <div><h2>What skills do you want to learn and what skills do you already posses?</h2>
-	Resumes and applications are neat, but they are not always the best indication of someones talent or transferable skills. You have found a site dedicated to finding out your skills, tracking them, and finding people who want to use or hire your skills.
- <ul>
-	<li>Volunteer Portal</li>
-	<li>Professional Portal</li>
- </ul>
- </div> 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-4">
-      <h3>Looking for Talent?</h3>
-      <p>Hire talent for your organization or projects.</p>
-	   <p>Find the skilled people you need.</p>
-	  <button type="button" class="btn btn-success">View</button>
-    </div>
-    <div class="col-sm-4">
-      <h3> Become a source of talent.</h3>
-      <p>Provide your talent</p>
-      <p>Volunteer or make money from your skills.</p>
-	  <button type="button" class="btn btn-success">View</button>
-    </div>
-    <div class="col-sm-4">
-      <h3>Volunteer Talent</h3>        
-      <p>How do you get experience? By volunteering for non profits or working part time. This is also a great way to try a new career path without investing time and money to find out if it is for you.</p>
-      <p>Get experience and references for current and new skills.</p>
-	  <p>If direct experience is not available or allowed, then you will be grouped with people who have similar interests.</p>
-	  <button type="button" class="btn btn-success">View</button>
-    </div>
-  </div>
-</div>
+
+ 
+<p>Click "Enter" to access freelance pages</p>
+
+<button onclick="myFunction('Professional','hours')">Enter</button>
+
+<p id="practice"></p>
+
+<script>
+function myFunction(genName,subject) {
+    document.getElementById("practice").innerHTML =
+    "Welcome " + genName + ", you met the requirements for the " + subject + ".";
+}
+</script>
 
 </body>
 </html>
