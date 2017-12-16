@@ -16,13 +16,18 @@
 <p>Click "Enter" to access freelance pages</p>
 
 <button onclick="myFunction('Professional','hours')">Enter</button>
-
+<button onclick="moreFunction('Developer','Quiz')">Quiz</button>
 <p id="practice"></p>
+<div id="quiz"></div>
 
 <script>
 function myFunction(genName,subject) {
     document.getElementById("practice").innerHTML =
     "Welcome " + genName + ", you met the requirements for the " + subject + ".";
+}
+function moreFunction(name,game) {
+    document.getElementById("quiz").innerHTML =
+    "Welcome " + name + ", you need to answer my " + game + "!.";
 }
 </script>
 
