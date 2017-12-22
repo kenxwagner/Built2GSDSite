@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript two sum problem</h2>
+
+<p>Problem: Given an array of integers and a target sum, return every pair of integers that add up to the target sum.</p>
+//https://hackernoon.com/two-sum-problem-in-javascript-156cbbd05a80
+
+<p id="helloAnswer"></p>
+
+<script>
+document.getElementById("helloAnswer").innerHTML = 
+  let arr = [-4, 2, 1, 9, 7, 5],
+    target = 3
+let bruteForceTwoSum = (array, sum) => {
+  let result = []
+  for (let i = 0; i < array.length; i++){
+    for (let j = i + 1; j < array.length; j++){
+      if (array[j] === sum - array[i]){
+        result.push([array[i], array[j]])
+      }
+    }
+  }
+  return result
+}
+bruteForceTwoSum(arr, target)
+//[ [-4, 7], [2, 1] ]
+</script>
+
+<script>
+document.getElementById("helloAnswer").innerHTML = 
+  let hashMapTwoSum = (array, sum) => {
+  let hashMap = {},
+      results = []
+  
+  for (let i = 0; i < array.length; i++){
+    if (hashMap[array[i]]){
+      results.push([hashMap[array[i]], array[i]])
+    }else{
+      hashMap[sum - array[i]] = array[i]
+    }
+  }
+  return results
+}
+</script>
+
+</body>
+</html>
