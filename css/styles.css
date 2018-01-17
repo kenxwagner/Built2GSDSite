@@ -9,5 +9,8 @@ h1 {
 	font-size: 1.5em;
 }
 span {
-	font-weight: italics;
+	font-weight: bold;
+}
+p.italic {
+	font-style: italic;
 }
