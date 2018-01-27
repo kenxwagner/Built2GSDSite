@@ -11,11 +11,11 @@ public class HashtableTimes
 		Enumeration names;
 		String key;
  
-   // Creating a Hashtable
+   // Create a Hashtable
    Hashtable<String, String> hashtable = 
               new Hashtable<String, String>();
  
-   // Adding Key and Value pairs to Hashtable
+   // Add Key and Value pairs to Hashtable
    hashtable.put("Key1","Banana");
    hashtable.put("Key2","Dragon Fruit");
    hashtable.put("Key3","Kiwi");
