@@ -1,3 +1,4 @@
+//
 public class BinaryTree {
 	Node root;
 	
@@ -10,6 +11,8 @@ public class BinaryTree {
 		
 			root = newNode;
 			
+		} else {
+			// root set as Node to start
 		}
 		
 	}
