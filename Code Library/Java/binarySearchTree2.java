@@ -13,6 +13,20 @@ public class BinaryTree {
 			
 		} else {
 			// root set as Node to start
+			Node focusNode = root;
+			
+			Node parent;
+			
+			while (true){
+				
+				parent = focusNode;
+				
+				if (key < focusNode.key) {
+					focusNode = focusNode.leftChild;
+				}
+			}
+			
+			
 		}
 		
 	}
