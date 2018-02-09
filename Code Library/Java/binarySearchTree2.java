@@ -19,23 +19,30 @@ public class BinaryTree {
 			
 			while (true){
 				
-				
+				// root is top parent
 				parent = focusNode;
 				
+				// check if new node goes on left
 				if (key < focusNode.key) {
+					// Focus on left child
 					focusNode = focusNode.leftChild;
-					
+					// if left child has no children
 					if (focusNode == null) {
 						
+						// new node is on the left of it
 						parent.leftChild = newNode;
 						return;
 					}
 					
-				} else { 
+				} else { // this is used when node goes on the right
 					
 					focusNode = focusNode.rightChild;
 					
+					// if right child has no children
+					
 					if (focusNode == null) {
+						
+						// place new node on right 
 						
 						parent.rightChild = newNode;
 						return;
