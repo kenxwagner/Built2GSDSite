@@ -5,6 +5,9 @@ class BinarySearchTree{
 		int key;
 		Node left, right;
 		
-		Public Node(int item)
+		Public Node(int item){
+			key=item;
+			left = right = null;
+		}
 	}
 }
