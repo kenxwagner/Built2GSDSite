@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title> Use JavaScript with RegEx to check for Capitalization</title>
+</head>
+<body>
+
+<script>
+function upper_case(str)
+{
+   regexp = /^[A-Z]/;
+   if (regexp.test(str))
+    {
+      console.log("String's first character is uppercase");
+    } 
+    else
+    {
+      console.log("String's first character is not uppercase");
+    }
+}
+upper_case('Abcd');
+upper_case('abcd');
+
+</script>
+
+</body>
+</html>
