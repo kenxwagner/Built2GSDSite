@@ -10,6 +10,9 @@ CREATE TABLE Persons (
 	theirState varchar(255)
 );
 
+CREATE INDEX idx_lastname
+ON Persons (LastName);
+
 CREATE TABLE schedule_calendar (
 	DayofWeek varchar(10)
 	
