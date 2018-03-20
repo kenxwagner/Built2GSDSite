@@ -14,7 +14,10 @@ CREATE INDEX idx_lastname
 ON Persons (LastName);
 
 CREATE TABLE schedule_calendar (
-	DayofWeek varchar(10)
+	DayofWeek varchar(12),
+	theMonth varchar(12),
+	theYear int
+	
 	
 
 );
