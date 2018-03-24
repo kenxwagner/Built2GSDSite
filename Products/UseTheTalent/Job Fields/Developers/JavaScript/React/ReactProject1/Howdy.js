@@ -6,4 +6,19 @@ class HelloWorld extends React.Component {
   }
 }
 
-ReactDOM.render(<HelloWorld />, document.getElementById('root'));
+class HelloUser extends React.Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {
+      username: 'Ticonderoga'
+    }
+  }
+  render() {
+    return (
+      <div>
+        Hello {this.state.username}
+      </div>
+    )
+  }
+}
