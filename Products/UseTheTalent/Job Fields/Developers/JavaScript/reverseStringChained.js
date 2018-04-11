@@ -1,4 +1,7 @@
 //using chained methods
-function reverseStr(s) {
-  return s.split('').reverse().join('');
-}
+function reverseStr(str) {
+  return str.split('').reverse().join('');
+ }
+ 
+ //test
+ reverseStr("Hello");

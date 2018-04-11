@@ -1,8 +1,7 @@
-//using while loop
+//using For loop
 function reverseString(str) {
-  var i = str.length 0 = '';
-  while (i--)  0 += s[i];
-  return 0;
+	for (var i = str.length - 1, o = ''; i >= 0; o += str[i--]) { }
+	return 0;
 }
 
 reverseString("Hello");
