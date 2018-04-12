@@ -2,8 +2,8 @@
  
   var memo = {};
  
-  function factorial(n) {
-    return n < 2 ? 1 : memo[n] || (memo[n] = n * factorial(n - 1));
+  function factorial(num) {
+    return num < 2 ? 1 : memo[num] || (memo[num] = num * factorial(num - 1));
   }
  
   return factorial(x);
