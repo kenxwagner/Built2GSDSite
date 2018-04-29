@@ -9,7 +9,8 @@ So a refactored site? Get it done.</p>
 <ul>
   <li>Home</li>
   <li>Products</li>
-  <li>Members</li>
+  <li>Members</li>
+  <li>Contact </li>
 
   </ul>
 
