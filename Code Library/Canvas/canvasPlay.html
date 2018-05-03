@@ -2,13 +2,16 @@
 <html>
 <head>
 <script>
+function getUnitSize() {
+	var choice = alert("Please enter a number", 100);
+	if (choice != null) {
+		"Thanks!";
+	}
+}
 function draw() {
 	//test alert("I see you!");
 	var ctx = document.getElementById('lilcanvas').getContext('2d');
-//test	alert(ctx.canvas.id+" | "+ctx.canvas.width+" | "+ctx.canvas.height);
-	//ctx.fillRect(x, y, w, h);
-	//ctx.fillStyle = "#5A9BD5";
-	//ctx.fillRect(10, 10, 500, 500);
+
 	ctx.fillStyle = "#FFFF00";
 	ctx.strokeStyle = "#5A9BD5";
 	ctx.lineWidth = 100;
@@ -23,7 +26,8 @@ window.onload = draw;
 </head>
 <body>
 
-<canvas id="lilcanvas" width="500" height="500"></canvas>
+<canvas id="lilcanvas" width="500" height="500">
+Sorry, your browser does not support the HTML5 canvas tag.</canvas>
 
 </script> 
 

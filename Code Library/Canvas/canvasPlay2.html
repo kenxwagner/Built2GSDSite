@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function getUnitSize() {
+	var person = prompt("Please enter")
+}
+function draw() {
+  var ctx = document.getElementById('canvas').getContext('2d');
+
+  // draw a simple rectangle, but scale it.
+  ctx.save();
+  ctx.scale(5, 5);
+  ctx.fillRect(1, 10, 100, 100);
+  ctx.restore();
+
+
+}
+
+window.onload = draw;
+</script>
+
+</head>
+<body>
+
+<canvas id="canvas" width="500" height="500"></canvas>
+
+</script> 
+
+</body>
+</html>
