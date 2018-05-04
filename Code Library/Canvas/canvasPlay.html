@@ -2,12 +2,15 @@
 <html>
 <head>
 <script>
-function getUnitSize() {
-	var choice = alert("Please enter a number", 100);
-	if (choice != null) {
-		"Thanks!";
-	}
-}
+var newSize = 10;
+var numberChoice = prompt("Please enter a number", "100");
+
+if (numberChoice == null || numberChoice == "") {
+    newSize = 100;
+} else {
+    newSize = numberChoice;
+} 
+
 function draw() {
 	//test alert("I see you!");
 	var ctx = document.getElementById('lilcanvas').getContext('2d');
