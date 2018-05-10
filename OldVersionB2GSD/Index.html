@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Built2GSD</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+</head>
+<body ng-app="">
+
+<div class="container">
+  <h2>Built2GSD</h2>
+  <p>Built to get stuff done.</p>
+  <ul class="nav nav-pills nav-justified">
+    <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
+    <li><a data-toggle="pill" href="#about">About</a></li>
+    <li><a data-toggle="pill" href="#kwportfolio">Ken's Portfolio</a></li>
+	
+	<li><a data-toggle="pill" href="#products">Products</a></li>
+
+
+  </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <h3>Welcome to "Built2GSD"</h3>
+      <p>Shall we begin?</p>
+	  <h6>Fix ME!</h6>
+
+    </div>
+    <div id="about" class="tab-pane fade">
+      <h3>About</h3>
+      <p>Started in 2010 as part time business. Built to "Get Stuff Done" is for those who want to create solutions. We like to make ideas happen.</p>
+	  <span>I digress</span>
+	  <p class="italic">Italic time</p>
+	  
+
+    </div>
+    <div id="kwportfolio" class="tab-pane fade">
+      <h3>Ken's Portfolio</h3>
+
+      <p>Ken has been publishing websites since 2006 and has worked for Cayuse, LiveTiles, Devfuzion, and Holland America (Carnival Cruise Lines subsidiary). Some of the work is presented here. </p>
+	  <ul>
+		<li>
+		<a ng-href="https://www.chukar.com/">Chukar Cherries</a> - Work completed for Devfuzion.
+
+		</li>
+		<li>
+		<a ng-href="https://www.livetiles.nyc/products/livetiles-sharepoint/">LiveTiles SharePoint</a> - Work completed for LiveTiles.
+
+		</li>
+		<li>
+		<a ng-href="KenPortfolio/MotorMindIncComputerServices/index.html">Motormind Inc Computer Services</a>
+		</li>
+		<li>
+		<a ng-href="KenPortfolio/Vote4Barb/default.html">Vote 4 Barb</a>
+		</li>
+		<li>
+		<a ng-href="KenPortfolio/EdisonFinder_v1/index.html">Edison Finder (Version 1)</a>
+		</li>
+		<li>
+		<a ng-href="KenPortfolio/EdisonFinder_v2/default.html">Edison Finder (Version 2)</a>
+		</li>
+		<li>
+		<a ng-href="KenPortfolio/Tri-cityTripleThreat/default.html">Tri-City Triple Threat</a>
+		</li>
+		<li>
+		<a ng-href="KenPortfolio/inventconnect/index.html">Invent Connect</a>
+		</li>
+		
+		
+
+		</ul>
+	  <div ng-init ="toGooglePlay = 'https://play.google.com/store/apps/developer?id=Built2GSD&hl=en'">
+	  <p id="published">Android Applications Published</p>
+	  <a ng-href ="{{toGooglePlay}}">Google Play</a></div>
+    </div>
+    <div id="products" class="tab-pane fade">	
+	<h3>Products under development.</h3>
+	<p>More will be added soon.</p>
+		
+		</div>
+  </div>
+</div>
+
+</body>
+</html>
