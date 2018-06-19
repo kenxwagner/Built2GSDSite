@@ -1,29 +1,24 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "4.0.0",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "title": "Built2GSD",
+    "name": "Built2GSD",
+    "version": "2.0.0",
+    "description": "Freelance and project applications website built with Bootstrap.",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
-        "theme",
-        "template"
+        "theme"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+    
+    
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    
+    "author": "Ken Wagner",
+    
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/kenxwagner/Built2GSDSite"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
