@@ -13,6 +13,8 @@ class App extends Component {
         <p className="App-intro">
           Study and learn more. This is a quick lesson. We are editing <code>src/App.js</code> and saving to reload.
         </p>
+		<p className="Fakestuff">
+		Fake Stuff to test code.</p>
       </div>
 	 
     );
