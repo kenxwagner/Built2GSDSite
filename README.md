@@ -15,7 +15,7 @@
   <li>Use The Talent</li>
   <li>Method For Talent</li>
   <li>Edison Finder</li>
-  <li>And More</li>
+  
   
   </ul>
 </body>
