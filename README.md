@@ -10,7 +10,7 @@
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
 
 <ul>
-<p>Here is the upcoming addition to the site:</p>
+
   Products
   <li>RSG Solutions</li>
   <li>Use The Talent</li>
