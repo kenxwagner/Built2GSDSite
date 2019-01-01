@@ -7,9 +7,10 @@
 
 <p></p>
 <h2>When you want to get things done</h2>
-<p>If an idea comes to mind and you want to act upon it, don't fret if it fails... a lot! Keep going and don't give up, because improvement will happen if you keep at it.</p>
-<p>Here is the upcoming addition to the site:</p>
+<p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
+
 <ul>
+<p>Here is the upcoming addition to the site:</p>
   Products
   <li>RSG Solutions</li>
   <li>Use The Talent</li>
