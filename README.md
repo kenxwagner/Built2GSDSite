@@ -11,7 +11,7 @@
 
 <ul>
 
-  Products
+  <p><h3>Products</h3></p>
   <li>RSG Solutions</li>
   <li>Use The Talent</li>
   <li>Method For Talent</li>
