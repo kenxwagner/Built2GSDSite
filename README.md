@@ -13,7 +13,7 @@
 
   <p><h3>Products</h3></p>
   <li>RSG Solutions</li>
-  <li>Use The Talent</li>
+  <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
   <li>Method For Talent</li>
   <li>Edison Finder</li>
   <li>For What I Have</li>
