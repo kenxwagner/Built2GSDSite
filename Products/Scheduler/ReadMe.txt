@@ -9,5 +9,5 @@ function getServer(){
 	}
 	
 }
-Default is user schedule.
-function
+//Default is user schedule.
+
