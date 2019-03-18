@@ -3,7 +3,7 @@
 
 <body>
 
-<h1> <a href="http://www.built2GSD.com">www.Built2GSD.com</a></h1>
+<h1> <a href="http://www.built2GSD.com">.Built2gsd.com</a></h1>
 
 <p></p>
 <h2>When you want to get things done</h2>
