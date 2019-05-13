@@ -21,6 +21,7 @@
   <li>Drop Ship Rental </li>
   <li>Deconstructed Journalism </li>
   <li>Schedule Breeze</li>
+  <li>Trade-off</li>
   <li>Data Weather Sales Predictor </li>
   
   </ul>
