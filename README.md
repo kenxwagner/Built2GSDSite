@@ -5,7 +5,7 @@
 
 <h1> <a href="http://www.built2GSD.com">Built2gsd.com</a></h1>
 
-<p></p>
+<p>Under construction!</p>
 <h2>When you want to get things done</h2>
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
 
