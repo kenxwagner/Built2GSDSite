@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>How to modify values in a JSON object using the bracket notation.</p>
+
+<p id="demo"></p>
+
+<script>
+var myObj, i, x = "";
+myObj = {
+  "name":"Vishnu",
+  "age":40,
+  "cars": {
+    "car1":"Toyota",
+    "car2":"BMW",
+    "car3":"Honda"
+  }
+}
+myObj.cars["car2"] = "Nissan";
+
+for (i in myObj.cars) {
+    x += myObj.cars[i] + "<br>";
+}
+
+document.getElementById("demo").innerHTML = x;
+
+</script>
+
+</body>
+</html>

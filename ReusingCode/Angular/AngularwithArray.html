@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<style>
+table, th, td {
+	border:  1px solid grey;
+	border-collapse: collapse;
+	padding: 6px;
+}
+table tr: nth-child(odd){
+	background-color: #91d2f7;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<head>
+<title>Welcome to the world!
+</title>
+<head>
+<body>
+<div ng-app="App" ng-controller="customersCtrl"> 
+</div>
+<script>
+var app = angular.module('myApp', []);
+app.controller('customersCtrl', function($scope, $http) {
+    $http.get("customers.php")
+    .then(function (response) {$scope.names = response.data.records;});
+});
+</script>
+</body>
+
+
+
+
+</html>
