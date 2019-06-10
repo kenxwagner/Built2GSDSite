@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+    $("button").click(function(){
+        $("div").animate({
+            left: '200px',
+            opacity: '0.75',
+            height: '180px',
+            width: '180px'
+        });
+    });
+});
+</script> 
+</head>
+<body>
+
+<button>Click Me</button>
+
+<p>To manipulate with JQuery.</p>
+
+<div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>
+
+</body>
+</html>

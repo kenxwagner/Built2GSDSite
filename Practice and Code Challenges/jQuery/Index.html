@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+	$("button").click(function(){
+		$("p").toggle();
+	});
+});
+
+</script>
+
+</head>
+<body>
+<button> Click me for the toggle effect... Off and On</button>
+
+<p>This the content that will be seen and later won't be seen.</p>
+<p>Since the p tag was chosen, any item with it will toggle. <div> Not me despite my parent element.</div></p>
+<div>But not me, baby. Div is my name.</div>
+</body>
+</html>
