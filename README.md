@@ -14,7 +14,8 @@
   <li>RSG Solutions</li>
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
   <li>Method For Talent</li>
-  <ul>Steps</ul>
+  <ul>
+  <li>Steps</li></ul>
   <li>Edison Finder</li>
   <li>For What I Have</li>
   <li>Along the way</li>
