@@ -7,7 +7,7 @@
 
 <h2>When you want to get things done</h2>
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
-Angular or React or C# or Java Spring?
+Angular or React or C# or Java?
 <ul>
 
   <p><h3>Products</h3></p>
@@ -17,7 +17,7 @@ Angular or React or C# or Java Spring?
   <ul>
   <li>Steps</li></ul>
   <li>Edison Finder</li>
-  <li>For What I Have</li>1
+  <li>For What I Have</li>
   <li>Along the way</li>
   <li>Drop Ship Rental </li>
   <li>Deconstructed Journalism </li>
@@ -29,4 +29,4 @@ Angular or React or C# or Java Spring?
   </ul>
 </body>
 </html>
-7
+
