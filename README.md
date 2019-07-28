@@ -3,7 +3,7 @@
 
 <body>
 
-<h1> <a href="http://www.built2GSD.com">Built2gsd.com</a></h1>
+<h1> <a href="http://www.built2GSD.com">Built2GSD.com</a></h1>
 
 <h2>When you want to get things done</h2>
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
@@ -25,6 +25,7 @@ Angular or React or C# or Java?
   <li>Trade-off</li>
   <li>Data Weather Sales Predictor </li>
   <li>Good Goal Challenge</li>
+  <li>Other</li>
   
   </ul>
 </body>
