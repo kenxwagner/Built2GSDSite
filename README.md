@@ -9,7 +9,7 @@
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
 Angular or React or C# or Java?
 <ul>
-
+  <h3>Potential add-ons for use the talent.</h3>
   <p><h3>Products</h3></p>
   <li>RSG Solutions</li>
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
