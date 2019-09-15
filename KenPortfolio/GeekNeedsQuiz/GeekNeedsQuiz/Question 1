@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My Quiz Page</h2>
+<p>My First Question.</p>
+
+<p id="question1"></p>
+
+<script>
+document.getElementById("question1").innerHTML <!DOCTYPE html>
+<html>
+<body>
+
+<h2>My Quiz Page</h2>
+<p>My First Question.</p>
+
+<p id="question1"></p>
+
+<script>
+document.getElementById("question1").innerHTML = 5 + 6;
+</script>
+
+</body>
+</html> 
+= 5 + 6;
+</script>
+
+</body>
+</html> 
