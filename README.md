@@ -25,6 +25,7 @@ Angular or React?
   <li>Trade-off</li>
   <li>Data Weather Sales Predictor </li>
   <li>Good Goal Challenge</li>
+  <li>Venue Finder</li>
   <li>Other</li>
   
   </ul>
