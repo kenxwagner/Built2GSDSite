@@ -26,6 +26,7 @@ Angular or React?
   <li>Data Weather Sales Predictor </li>
   <li>Good Goal Challenge</li>
   <li>Venue Finder</li>
+  <li>Gift Helper</li>
   <li>Other</li>
   
   </ul>
