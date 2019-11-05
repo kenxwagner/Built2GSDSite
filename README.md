@@ -15,8 +15,10 @@ Angular or React?
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
   <li>Method For Talent</li>
   <ul>
-  <li>Steps</li></ul>
+  <li>Steps for success</li></ul>
   <li>Edison Finder</li>
+  <ul>
+  <li>Inventor guidance</li></ul>
   <li>For What I Have</li>
   <li>Along the way</li>
   <li>Drop Ship Rental </li>
