@@ -24,7 +24,7 @@ Angular or React?
   <li>Drop Ship Rental </li>
   <li>Deconstructed Journalism </li>
   <li>Schedule Breeze</li>
-  <li>Trade-off</li>
+  <li>Trade-off application</li>
   <li>Data Weather Sales Predictor </li>
   <li>Good Goal Challenge</li>
   <li>Venue Finder</li>
