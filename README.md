@@ -7,7 +7,7 @@
 
 <h2>When you want to get things done</h2>
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
-Angular or React?
+Angular or React? .Net or Android?
 <ul>
   <h3>Potential add-ons for use the talent.</h3>
   <p><h3>Products</h3></p>
