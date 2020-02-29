@@ -30,6 +30,7 @@
   <li>Good Goal Challenge</li>
   <li>Venue Finder</li>
   <li>Gift Helper</li>
+<li>Maintenance Map</li>
 
   <li>School Bus Map</li>
     <li>Other</li>
