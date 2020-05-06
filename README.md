@@ -1,6 +1,6 @@
 <html>
 <head>
-cg
+
 <body>
 
 <h1> <a href="http://www.built2GSD.com">Built2GSD.com</a></h1>
