@@ -10,7 +10,7 @@
 <ul>
   <h3>Potential add-ons for use the talent.</h3>
   <p><h3>Products</h3></p>
-  <li>RSG Solutions</li>
+  <li>RSG Solutions</li><ul><li>Prepping for launch </li></ul>
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
   <li>Method For Talent</li>
   <ul>
