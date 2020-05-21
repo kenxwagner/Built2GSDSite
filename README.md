@@ -12,7 +12,7 @@
   
   <li>RSG Solutions</li><ul><li>Prepping for launch </li></ul>
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
-  <li>Method For Talent<p><i>-as part of Use The Talent</i></p></li>
+  <li>Method For Talent<i>-as part of Use The Talent</i></li>
   <ul>
   <li>Steps for success</li>
   <li>Market yourself</li></ul>
@@ -30,6 +30,7 @@
   <li>Venue Finder</li>
   <li>Gift Helper</li>
 <li>Maintenance Map</li>
+<li> Incident Reporting with Wizard </li>
 
   <li>School Bus Map</li>
     <li>Other</li>
