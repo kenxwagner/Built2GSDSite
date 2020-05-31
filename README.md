@@ -33,7 +33,8 @@
 <li> Incident Reporting with Wizard </li>
 
   <li>School Bus Map</li>
-    <li>Other</li>
+    <li>How to Sell your home</li>
+    
   
   </ul>
 </body>
