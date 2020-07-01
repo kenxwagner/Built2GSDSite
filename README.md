@@ -10,7 +10,7 @@
 <ul>
   <h3>Products in Que:</h3>
   
-  <li>RSG Solutions</li><ul><li>Prepping for launch </li></ul>
+  <li>NeighborlyMarket</li><ul><li>Prepping for launch </li></ul>
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
   <li>Method For Talent<i>-as part of Use The Talent</i></li>
   <ul>
@@ -34,7 +34,7 @@
 
   <li>School Bus Map</li>
     <li>How to Sell your home</li>
-    More?
+ 
   
   </ul>
 </body>
