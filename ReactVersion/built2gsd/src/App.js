@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Just to get started, here is a Title: Built2GSD</h1>
 		<p>
-          Edit <code>src/App.js</code> and save to reload.
+          So what is the plan?
         </p>
         <a
           className="App-link"
