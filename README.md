@@ -8,7 +8,7 @@
 <p>Portfolio, projects, and products in one location. This is also the testing site for apps prior to stand alone hosting.</p>
 
 <ul>
-  <h3>Products in Que:</h3>
+  <h3>Products:</h3>
   
   <li>NeighborlyMarket</li><ul><li>Prepping for launch </li></ul>
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
