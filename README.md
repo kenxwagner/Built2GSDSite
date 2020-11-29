@@ -14,7 +14,7 @@
   <li>Use The Talent</li><ul><li>Experience for your talent </li></ul>
   <li>Method For Talent<i>-as part of Use The Talent</i></li>
   <ul>
-  <li>Steps for success</li>
+
   <li>Market yourself</li></ul>
   <li>Edison Finder</li>
   <ul>
