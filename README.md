@@ -20,7 +20,7 @@ testing site for apps prior to stand alone hosting, if applicable.</p>
   <li>Edison Finder</li>
   <ul>
   <li>Inventor guidance</li></ul>
-  <li>For What I Have</li>
+  <li>For What I Have</li> - Warranty and instructions. 
   <li>Along the way</li>
   <li>Drop Ship Rental </li>
   <li>Deconstructed Journalism </li>
